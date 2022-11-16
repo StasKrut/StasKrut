@@ -5,7 +5,7 @@
 
 - 🤓 I'm Python Developer
 - 💬 Let's talk about Python, Django, Development Patterns.
-- Now based in **Moscow** ru , but always ready to change location.
+- Now based in **Moscow**, but always ready to change location.
 
 <!--
 ## Some of my Github Stats
