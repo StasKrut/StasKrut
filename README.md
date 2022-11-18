@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-staskrut-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/staskrut/)](https://www.linkedin.com/in/staskrut/) [![Github Badge](https://img.shields.io/badge/-StasKrut-grey?style=flat&logo=github&logoColor=white&link=https://github.com/StasKrut/)](https://github.com/StasKrut/)
 
 - 🤓 I'm Python Developer
+- 🔭 I’m studying at Yandex.Practicum
 - 💬 Let's talk about Python, Django, Development Patterns.
 - Now based in **Moscow**, but always ready to change location.
 
