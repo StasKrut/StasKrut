@@ -7,8 +7,9 @@
 - 💬 Let's talk about Python, Django, FastAPI.
 - Now based in **Moscow**, but always ready to change location.
 
-My team projects:
+# My team projects:
 https://github.com/CrowMEV/tgparsing-backend
+
 https://github.com/CrowMEV/tgparsing-bots
 
 <!--
