@@ -7,6 +7,9 @@
 - 💬 Let's talk about Python, Django, FastAPI.
 - Now based in **Moscow**, but always ready to change location.
 
+My team projects:
+https://github.com/CrowMEV/tgparsing-backend
+https://github.com/CrowMEV/tgparsing-bots
 <!--
 ## Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=StasKrut&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/pedes/github-readme-stats)
